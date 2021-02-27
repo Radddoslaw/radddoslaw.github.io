@@ -1,2 +1,3 @@
 # radddoslaw.github.io
-# im trying
+# this branch is python related
+# idk how i will implement this
